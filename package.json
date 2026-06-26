@@ -1,1 +1,1 @@
-﻿{"name":"greek-steak-house-api","version":"1.0.0","scripts":{"start":"json-server --watch db.json --port 3000"},"dependencies":{"json-server":"0.17.4"}}
+﻿{"name":"greek-steak-house-api","version":"1.0.0","scripts":{"start":"json-server --watch db.json --host 0.0.0.0 --port $PORT"},"dependencies":{"json-server":"0.17.4"}}
